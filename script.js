@@ -1,7 +1,7 @@
 var dogs = [
 {
   id: 0,
-  photo: "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/22154710_10107136239116508_2638049624306936034_n.jpg?oh=c1925c773e57aa7c82ae6b94d3c37f57&oe=5A7EF35F",
+  photo: "/images/pepper seahawks.jpg",
   alt: "Ms. Pepper Potts",
   name: "Ms. Pepper Potts",
   breed: "Miniature Schnauzer Mix",
@@ -14,7 +14,7 @@ var dogs = [
 
 {
   id: 1,
-  photo: "https://scontent-lax3-2.xx.fbcdn.net/v/t31.0-8/334103_361508963917197_2017804697_o.jpg?oh=32cac0f4230212696b383a1aaadb36ec&oe=5A45DAB3",
+  photo: "/images/harley-bowtie.jpg",
   alt: "Harley Jones",
   name: "Harley Jones",
   breed: "Pittbull/Boxer Mix",
@@ -27,7 +27,7 @@ var dogs = [
 
 {
   id: 2,
-  photo: "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/22366272_10107160164030788_6873823909106004014_n.jpg?oh=711573d4e6ffa80b92de35ae1d42f698&oe=5A7BF501",
+  photo: "/images/oreo.jpg",
   alt:"Oreo",
   name: "Oreo",
   breed: "Jack Russell Terrier",
